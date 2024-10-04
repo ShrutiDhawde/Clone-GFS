@@ -432,7 +432,7 @@ body {
 
                                                             
   .service-section {
-    background-image: url('/training/asset/servicess.webp');
+    background-image: url('./servicess.webp');
     background-size: cover;
     background-position: center;
     height: 60vh;
